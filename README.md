@@ -2,6 +2,7 @@
 <h2 align="center">Me llamo Vicente Peralta y soy un Desarrollador Fullstack, apasionado por todo tipo de tecnologías.</h2>
 <h3 align="center">Actualmente estoy cursando el bootcamp de MERN de Coding Dojo.</h3>
 
+---
 <!--technologies-->
 ### Algunas de las tecnologías que manejo:
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
