@@ -1,6 +1,6 @@
 <h1 align="center"><code><a>¡Hola Mundo! / Hello World!</a></code></h1>
 <h2 align="center">Me llamo Vicente Peralta y soy un Desarrollador Fullstack, apasionado por todo tipo de tecnologías.</h2>
-<h3 align="center">Actualmente estoy cursando el bootcamp de MERN de Coding Dojo.</h3>
+<h3 align="center">Actualmente trabajo como Desarrollador Frontend en Pharedata.</h3>
 
 ---
 <!--technologies-->
